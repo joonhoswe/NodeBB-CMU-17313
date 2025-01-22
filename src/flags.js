@@ -19,7 +19,7 @@ const utils = require('./utils');
 const batch = require('./batch');
 
 const Flags = module.exports;
-
+// test commit
 console.log('Testing refactored code - jjo2');
 
 Flags._states = new Map([
